@@ -1,0 +1,77 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1.0"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ProjetTest",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ProjetTest::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ProjetTest-Debug-2665ec9682154dfb78a7.json",
+					"name" : "ProjetTest",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ProjetTest_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ProjetTest_autogen-Debug-95d023339e23d51965c1.json",
+					"name" : "ProjetTest_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ProjetTest_couverture::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ProjetTest_couverture-Debug-e349f013f13884e974cf.json",
+					"name" : "ProjetTest_couverture",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/jean-christopheveilleux/Desktop/ChessGame/build",
+		"source" : "/Users/jean-christopheveilleux/Desktop/ChessGame"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 2
+	}
+}

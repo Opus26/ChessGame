@@ -1,0 +1,18 @@
+﻿  bibliotheque_cours.cpp
+  verification_allocation.cpp
+  Bishop.cpp
+  Board.cpp
+  BoardGame.cpp
+  BoardWindow.cpp
+  gtest-all.cc
+  King.cpp
+  Knight.cpp
+  main.cpp
+  Piece.cpp
+  TestChessGame.cpp
+  welcomewindow.cpp
+  moc_BoardWindow.cpp
+  moc_Board.cpp
+  moc_welcomewindow.cpp
+     Création de la bibliothèque C:\Users\emman\Downloads\ChessGame_2080269_2091306_2\x64\Debug\ProjetTestQt.lib et de l'objet C:\Users\emman\Downloads\ChessGame_2080269_2091306_2\x64\Debug\ProjetTestQt.exp
+  ProjetTestQt.vcxproj -> C:\Users\emman\Downloads\ChessGame_2080269_2091306_2\x64\Debug\ProjetTestQt.exe

@@ -1,0 +1,5 @@
+2	"King"	"Black"
+7	"King"	"White"
+29  "King"	"White"
+74  "Knight"	"Black"
+54  "Knight"	"White"

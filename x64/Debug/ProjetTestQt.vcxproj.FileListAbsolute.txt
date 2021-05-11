@@ -1,0 +1,6 @@
+C:\Users\emman\Downloads\ProjetTestQt (2)\x64\Debug\ProjetTestQt.exe
+C:\Users\emman\Downloads\ProjetTestQt (2)\x64\Debug\ProjetTestQt.pdb
+C:\Users\emman\Documents\ChessBoardQt\x64\Debug\ProjetTestQt.exe
+C:\Users\emman\Documents\ChessBoardQt\x64\Debug\ProjetTestQt.pdb
+C:\Users\emman\Downloads\ChessGame_2080269_2091306_2\x64\Debug\ProjetTestQt.exe
+C:\Users\emman\Downloads\ChessGame_2080269_2091306_2\x64\Debug\ProjetTestQt.pdb

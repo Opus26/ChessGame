@@ -1,0 +1,4 @@
+0	"King"	"Black"
+18	"Bishop"	"Black"
+36	"Bishop"	"White"
+59	"King"	"White"
